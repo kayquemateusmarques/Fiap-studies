@@ -1,0 +1,13 @@
+# Estruturas de repetição:
+
+# 1 - Pré-condicional: while
+# 2 - Pós condicional: while True (!!!NÃO EXISTE NO PYTHON DE VERDADE!!!)
+# 3 - Contadora: for
+
+1 - Enquanto for verdade, executa a condição.
+for volta in range(0,10,1):
+    print("Boa noite")
+para "variavel" em "sequencia"
+0 -> meu inicio, o primeiro número que será exibido
+10 -> o ultimo numero a ser exibido (menos o terceiro)
+1 -> o que vai mudar de uma repetição para outra
