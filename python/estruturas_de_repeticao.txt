@@ -11,3 +11,17 @@ para "variavel" em "sequencia"
 0 -> meu inicio, o primeiro número que será exibido
 10 -> o ultimo numero a ser exibido (menos o terceiro)
 1 -> o que vai mudar de uma repetição para outra
+
+
+# Somar números até digitar 0
+
+# Ler os números (s)
+# Somar os números (s)
+# Exibir o resultado (n)
+
+Varíavel acumuladora: valor inicial
+Variável contadora: usa ela mesma na conta
+
+O laço while continua enquanto a condição for verdadeira
+
+A ideia do while True é ser um laço pós-condicional improvisado. Quando seu app executar uma ação, ele vai testar o resultado e seguir para determinado caminho, podendo ser o fim do programa ou reinicio dele.
